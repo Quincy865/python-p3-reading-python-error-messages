@@ -1,3 +1,3 @@
 #!/usr/bin/env python3
-
-wrong_type = 'abc' + 123
+result = "The sum is: " + str(5)
+print(result)
